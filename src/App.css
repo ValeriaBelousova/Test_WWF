@@ -1,3 +1,48 @@
+@import '~antd/dist/antd.css';
+.main-title {
+  background-color: rgba(241, 245, 245, 0.7);
+  position: absolute;
+  top: 15px;
+  left: 10px;
+  z-index: 1000;
+  width: 640px;
+  color:black;
+  border-radius: 3px;
+}
+.menu {
+  background-color: rgba(241, 245, 245, 0.7);
+  position: absolute;
+  top: 65px;
+  left: 10px;
+  z-index: 1000;
+  width: 560px;
+  color:black;
+  border-radius: 3px;
+}
+.map-title {
+  text-align: left;
+  padding-left: 24px;
+  font-size: 25px;
+}
+.map-text {
+  text-align: left;
+  padding-left: 28px;
+  padding-right: 24px;
+  font-size: 16px;
+  padding-bottom: 24px;
+}
+.checkboxRow1 {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  font-size: 18px;
+}
+.checkboxRow {
+  padding-left: 24px;
+  padding-right: 24px;
+  /*padding-top: 24px;*/
+  font-size: 18px;
+}
 .App {
   text-align: center;
 }
@@ -26,6 +71,10 @@
 
 .App-link {
   color: #61dafb;
+}
+.main-layout {
+  height: 100%;
+  width: 100%;
 }
 
 @keyframes App-logo-spin {

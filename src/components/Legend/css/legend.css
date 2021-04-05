@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+.legend {
+  background-color: rgba(241, 245, 245, 0.7);
+  position: absolute;
+  bottom: 15px;
+  right: 10px;
+  z-index: 1000;
+  width: 600px;
+  color:black;
+  border-radius: 3px;
+}
+.legendInner {
+  position: relative;
+  z-index: 1000;
+  left: 24px;
+  margin-right: 44px;
+}
+
+.item:hover {
+  background: rgba(0,0,0,.25);
+}
+
+
+.legend-collapsed {
+  /* left: 60px; */
+}
+
+.legend-uncollapsed {
+  left: 360px;
+}
+
+.legend-title {
+  text-align: left;
+  padding-left: 24px;
+  font-size: 16px;
+}

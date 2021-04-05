@@ -1,0 +1,8 @@
+@import '~antd/dist/antd.css';
+.map-text {
+    text-align: left;
+    padding-left: 28px;
+    padding-right: 24px;
+    font-size: 16px;
+    padding-bottom: 24px;
+  }
