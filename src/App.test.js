@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useState } from 'react';
 import MapGL, { Source, Layer, FeatureState, NavigationControl, Popup } from '@urbica/react-map-gl';
