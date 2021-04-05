@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Test_WWF/static/css/main.85f6b807.chunk.css",
+    "main.js": "/Test_WWF/static/js/main.097d4bb7.chunk.js",
+    "main.js.map": "/Test_WWF/static/js/main.097d4bb7.chunk.js.map",
+    "runtime-main.js": "/Test_WWF/static/js/runtime-main.e4184c67.js",
+    "runtime-main.js.map": "/Test_WWF/static/js/runtime-main.e4184c67.js.map",
+    "static/css/2.bf17b1e1.chunk.css": "/Test_WWF/static/css/2.bf17b1e1.chunk.css",
+    "static/js/2.bb899194.chunk.js": "/Test_WWF/static/js/2.bb899194.chunk.js",
+    "static/js/2.bb899194.chunk.js.map": "/Test_WWF/static/js/2.bb899194.chunk.js.map",
+    "static/js/3.93c996dc.chunk.js": "/Test_WWF/static/js/3.93c996dc.chunk.js",
+    "static/js/3.93c996dc.chunk.js.map": "/Test_WWF/static/js/3.93c996dc.chunk.js.map",
+    "index.html": "/Test_WWF/index.html",
+    "static/css/2.bf17b1e1.chunk.css.map": "/Test_WWF/static/css/2.bf17b1e1.chunk.css.map",
+    "static/css/main.85f6b807.chunk.css.map": "/Test_WWF/static/css/main.85f6b807.chunk.css.map",
+    "static/js/2.bb899194.chunk.js.LICENSE.txt": "/Test_WWF/static/js/2.bb899194.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4184c67.js",
+    "static/css/2.bf17b1e1.chunk.css",
+    "static/js/2.bb899194.chunk.js",
+    "static/css/main.85f6b807.chunk.css",
+    "static/js/main.097d4bb7.chunk.js"
+  ]
+}
